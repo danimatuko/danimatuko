@@ -28,6 +28,7 @@ I am a passionate tech enthusiast and seasoned developer dedicated to crafting s
 
 <a href="http://www.github.com/danimatuko"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danimatuko&title_color=0891b2&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=false&layout=compact" alt="danimatuko's GitHub stats" /></a>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/danimatuko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
