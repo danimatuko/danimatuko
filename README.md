@@ -42,3 +42,10 @@ I am a passionate tech enthusiast and seasoned developer dedicated to crafting s
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </span>
+
+### Let's connect and collaborate on exciting projects! 👋🏾
+
+
+
+
+
