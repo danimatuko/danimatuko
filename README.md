@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Dani Matuko</h1>
+<h1 align="center">Hi 👋🏾, I'm Dani Matuko
 <h3 align="center">Enthusiast and Developer Dedicated to Building Seamless Web Solutions</h3>
 
 I am a passionate tech enthusiast and seasoned developer dedicated to crafting seamless web solutions that not only meet but exceed expectations, leveraging my valuable startup insights and hands-on experience to deliver exceptional results.
