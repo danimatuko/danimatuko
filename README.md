@@ -7,7 +7,7 @@ I am a passionate tech enthusiast and seasoned developer dedicated to crafting s
 
 - 🌍 I'm based in Israel
 - 🖥️ See my portfolio at [dani-matuko.com](https://www.dani-matuko.com/)
-- 🚀 I'm currently working on [wp_starter](https://github.com/danimatuko/wp-starter)
+- 🚀 I'm currently working on [eduhub](https://github.com/danimatuko/eduhub)
 - 🧠 I'm currently learning Linux and Wordpress
 - 🤝 I'm open to collaborating on open-source projects
 
