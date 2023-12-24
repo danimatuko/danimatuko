@@ -8,7 +8,7 @@ I am a passionate tech enthusiast and seasoned developer dedicated to crafting s
 - 🌍 I'm based in Israel
 - 🖥️ See my portfolio at [dani-matuko.com](https://www.dani-matuko.com/)
 - 🚀 I'm currently working on [inspiria](https://github.com/danimatuko/inspiria)
-- 🧠 I'm currently learning Linux and Wordpress
+- 🧠 I'm currently learning PHP and Wordpress
 - 🤝 I'm open to collaborating on open-source projects
 
 <br/>
