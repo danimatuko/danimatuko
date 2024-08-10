@@ -7,8 +7,8 @@ I am a passionate tech enthusiast and seasoned developer dedicated to crafting s
 
 - 🌍 I'm based in Israel
 - 🖥️ See my portfolio at [dani-matuko.com](https://www.dani-matuko.com/)
-- 🚀 I'm currently working on [bloggery](https://github.com/danimatuko/bloggery)
-- 🧠 I'm currently learning PHP and Wordpress
+- 🚀 I'm currently working on PHP MVC framework
+- 🧠 I'm currently learning [VIM](https://www.vim.org/) and [Neovim](https://neovim.io/)
 - 🤝 I'm open to collaborating on open-source projects
 
 <br/>
